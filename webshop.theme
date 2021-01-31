@@ -4,4 +4,5 @@
  */
 function webshop_preprocess_html(&$variables)
 {
+//  kint($variables);
 }
